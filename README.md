@@ -30,7 +30,7 @@
 1. Clona este repositorio:
 
 ```bash
-git clone https://github.com/tu_usuario/WinFind.git
+git clone https://github.com/D1se0/winFind.git
 ```
 
 2. Abre el proyecto en Visual Studio o tu IDE favorito.
