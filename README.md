@@ -58,5 +58,6 @@ Este proyecto es de uso libre bajo la licencia `MIT`. Consulta el archivo `LICEN
 
 `WinFind.exe` es una herramienta creada para fines educativos y pruebas de seguridad autorizadas únicamente. No nos hacemos responsables por el mal uso que se le pueda dar.
 
-Autor
+## Autor
+
 Creado por d1se0
