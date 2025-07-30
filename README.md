@@ -33,8 +33,7 @@
 git clone https://github.com/D1se0/winFind.git
 ```
 
-2. Abre el proyecto en Visual Studio o tu IDE favorito.
-3. Restaura los paquetes NuGet y compila el proyecto.
+2. Ejecutalo directamente ya que esta compilado en un mismo archivo `.exe`
 
 ## Uso
 
